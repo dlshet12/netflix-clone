@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-.logo{
-    color: brown;
+.logo {
+  color: brown;
+}
+.backgroundColor {
+  color: rgb(20, 20, 20);
+  height: 100vh;
 }
